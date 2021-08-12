@@ -33,8 +33,8 @@
     ], 
     "redis_features": ["Redis Cloud", "RedisJSON"],
     "redis_modules": ["RedisJSON", "Redis Cloud"], 
-    "app_image_urls": ["https://github.com/parthiban62/NR-digital-auction-backend/blob/main/screenshots/HomePage.png", "https://github.com/parthiban62/NR-digital-auction-backend/blob/main/screenshots/Signup.png", "https://github.com/parthiban62/NR-digital-auction-backend/blob/main/screenshots/SignIn.png", "https://github.com/parthiban62/NR-digital-auction-backend/blob/main/screenshots/Dashboard.png", "https://github.com/parthiban62/NR-digital-auction-backend/blob/main/screenshots/AuctionItems.png", "https://github.com/parthiban62/NR-digital-auction-backend/blob/main/screenshots/ItemBiddingPage.png", "https://github.com/parthiban62/NR-digital-auction-backend/blob/main/screenshots/BiddingRealTimeUpdate.png"],
-    "youtube_url": "",
+    "app_image_urls": [""],
+    "youtube_url": "https://www.youtube.com/watch?v=jgRmq3VbAFw",
     "special_tags": ["Redis Hackathon"],
     "verticals": ["Digital Auction"],
     "markdown": "https://raw.githubusercontent.com/parthiban62/NR-digital-auction-backend/main/README.md"
